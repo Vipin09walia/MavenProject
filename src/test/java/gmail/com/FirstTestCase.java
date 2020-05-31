@@ -11,9 +11,6 @@ public class FirstTestCase extends Base
 	{
 		driver.get("https://www.google.com");
 		System.out.println("Launch succesfully");
-		system.out.println("jalsdf");
-system.out.println("tstsm");
-system.out.println("asdfadfa");
-	}
+
 
 }
